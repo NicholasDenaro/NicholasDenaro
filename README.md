@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Check out my [itch.io page](https://ndev.itch.io/) for some game jam games I've made using the engines I've developed, both of which are open source on my GitHub.
+Check out my [itch.io page](https://ndev.itch.io/) for some game jam games, prototypes, and mostly on-hold projects, I've made using the engines I've developed, many of which are open source on my GitHub.
 
-I'm currently working on an Animal Crossing-like game which can be found at [minimalcrossing.denaro.dev](https://minimalcrossing.denaro.dev)
+I'm currently working on a website, and also idle rpg game which can be found at [denaro.dev](https://denaro.dev) and [hextalith.denaro.dev](https://denaro.dev/projects/hextalith)
 <!--
 **NicholasDenaro/NicholasDenaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
